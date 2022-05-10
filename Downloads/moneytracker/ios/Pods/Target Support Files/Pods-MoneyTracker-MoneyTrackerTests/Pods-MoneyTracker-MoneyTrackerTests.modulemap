@@ -1,0 +1,6 @@
+module Pods_MoneyTracker_MoneyTrackerTests {
+  umbrella header "Pods-MoneyTracker-MoneyTrackerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
